@@ -32,7 +32,9 @@ This project was developed entirely in **MATLAB**, focusing on mathematical mode
 * `Scenario_validation1.m`: Validation script to test the control architecture against defined crash scenarios.
 
 <img width="916" height="876" alt="6 6" src="https://github.com/user-attachments/assets/a6b1c476-c8a9-428b-a9c2-8dd6d6565306" />
+
 <img width="1920" height="926" alt="Control inputs" src="https://github.com/user-attachments/assets/422eea96-516d-42d5-8b41-80868258e719" />
+
 <img width="1600" height="533" alt="7 2" src="https://github.com/user-attachments/assets/645b03f6-204a-44b1-a1c5-0f2368928b08" />
 
 
