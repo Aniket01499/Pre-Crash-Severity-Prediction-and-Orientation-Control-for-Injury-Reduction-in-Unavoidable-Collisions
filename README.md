@@ -1,0 +1,2 @@
+# Pre-Crash-Severity-Prediction-and-Orientation-Control-for-Injury-Reduction-in-Unavoidable-Collisions
+The project proposes a severity aware control architecture that optimizes vehicle impact configuration in un-avoidable side impact collisions. It addresses a research gap and the hierarchical framework synthesizes biomechanical risk factors into a real time optimization objective, to steer toward safer, energy absorbing structural zones.
