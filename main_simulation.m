@@ -5,7 +5,7 @@ close all; clearvars -except ans; clc;
 if isfile('unavoidable_map.mat')
     MapData = load('unavoidable_map.mat');
 else
-    error('Run Scenario_validation1.m first!');
+    error('Run Scenario_validation.m first!');
 end
 
 % --- 2. Test Scope ---
