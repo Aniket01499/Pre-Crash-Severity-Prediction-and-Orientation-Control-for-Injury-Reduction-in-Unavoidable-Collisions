@@ -28,7 +28,7 @@ The unique contribution of this project is a framework that synthesizes physical
 ## 💻 Technologies & Files
 This project was developed entirely in **MATLAB**, focusing on mathematical modeling, algorithmic logic, and numerical simulation. 
 
-* `main_simulation_yesterday.m`: The primary simulation script orchestrating the pre-crash optimization logic.
+* `main_simulation.m`: The primary simulation script orchestrating the pre-crash optimization logic.
 * `Scenario_validation1.m`: Validation script to test the control architecture against defined crash scenarios.
 
 <img width="916" height="876" alt="6 6" src="https://github.com/user-attachments/assets/a6b1c476-c8a9-428b-a9c2-8dd6d6565306" />
